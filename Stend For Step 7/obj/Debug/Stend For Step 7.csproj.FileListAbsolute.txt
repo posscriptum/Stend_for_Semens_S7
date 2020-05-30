@@ -1,0 +1,26 @@
+c:\users\student\documents\visual studio 2015\Projects\Stend For Step 7\Stend For Step 7\bin\Debug\Stend For Step 7.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Interop.S7PROSIMLib.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.csproj.ResolveComReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\bin\Debug\Stend For Step 7.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\bin\Debug\Stend For Step 7.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend_For_Step_7.StendStep7.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend_For_Step_7.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\bin\Debug\Interop.S7PROSIMLib.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\bin\Debug\Stend For Step 7.exe.manifest
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\bin\Debug\Stend For Step 7.application
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.exe.manifest
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.application
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Stend For Step 7\Stend For Step 7\obj\Debug\Stend_For_Step_7.Form2.resources
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\bin\Debug\Stend For Step 7.exe.config
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.csproj.ResolveComReference.cache
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.exe
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.pdb
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.csprojResolveAssemblyReference.cache
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend_For_Step_7.StendStep7.resources
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend_For_Step_7.Form2.resources
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend_For_Step_7.Properties.Resources.resources
+C:\Users\Instructor\Desktop\Stend For Step 7\Stend For Step 7\obj\Debug\Stend For Step 7.csproj.GenerateResource.Cache
